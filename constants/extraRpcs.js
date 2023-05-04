@@ -214,7 +214,7 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.onfinality
       },
       {
-        url: "https://core.gashawk.io/rpc",
+        url: "https://vps-707926af.vps.ovh.ca:8545",
         tracking: "yes",
         trackingDetails: privacyStatement.gashawk,
       },
