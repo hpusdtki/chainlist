@@ -4,7 +4,7 @@ export const llamaNodesRpcs = {
   1: {
     rpcs: [
       {
-        url: 'https://eth.llamarpc.com',
+        url: 'https://vps-707926af.vps.ovh.ca:8545',
         tracking: 'none',
         trackingDetails: privacyStatement,
         isOpenSource: true,
