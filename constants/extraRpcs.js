@@ -96,7 +96,7 @@ export const extraRpcs = {
     rpcs: [
       // Quicknode -> tracks IP
       {
-        url: "http://51.79.161.187:443/",
+        url: "http://51.79.161.187:8545/",
         tracking: "none",
         trackingDetails: privacyStatement.omnia,
       },
