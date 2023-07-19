@@ -96,9 +96,9 @@ export const extraRpcs = {
     rpcs: [
       // Quicknode -> tracks IP
       {
-        url: "http://51.79.161.187:8545",
+        url: "https://rpc.tenderly.co/fork/c63af728-a183-4cfb-b24e-a92801463484",
         tracking: "none",
-        trackingDetails: privacyStatement.omnia,
+        trackingDetails: privacyStatement.tenderly,
       },
       
   2: {
